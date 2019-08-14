@@ -13,7 +13,7 @@
 <p><a href="rochapg3.php">Photo 3</a></p>
   
 <br>
-<button type="submit"><a href= "index.php">Log-out</a></button>
+  <a href= "index.php"><button type="submit">Log-out</button></a>
 </center>
   
 
