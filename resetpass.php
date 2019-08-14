@@ -8,7 +8,7 @@
 </br>
 <input type="text" name="email" required></p>
 </br>
-<a href="index.html"><button type ="submit">Reset Password</button></a>
+<a href="index.php"><button type ="submit">Reset Password</button></a>
 </center>
 
 
