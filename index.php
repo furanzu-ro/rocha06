@@ -22,7 +22,7 @@
 <input type="password" name="pass" required>
 </br> </br>
 
-<button type="submit"><a href= "photogallery.php">Login</a></button>
+<a href= "photogallery.php"><button type="submit">Login</button></a>
 </br> </br>
 
 </center>
