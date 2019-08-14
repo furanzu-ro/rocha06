@@ -11,7 +11,12 @@
 <p><a href="rochapg1.php">Photo 1</a></p>
 <p><a href="rochapg2.php">Photo 2</a></p>
 <p><a href="rochapg3.php">Photo 3</a></p>
+  
+<br>
+<button type="submit"><a href= "index.php">Log-out</a></button>
 </center>
+  
+
 
 
 </body>
