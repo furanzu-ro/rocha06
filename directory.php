@@ -6,7 +6,7 @@
 <h1 align="center">Welcome to my Photo Gallery</h1>
 </br>
 <center>
-<p><a href="photogallery.html"><i>Proceed to Photo Gallery<i></a></p>
+<p><a href="photogallery.php"><i>Proceed to Photo Gallery<i></a></p>
 </center>
 </html>
 </body>
