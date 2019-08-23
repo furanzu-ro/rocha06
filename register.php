@@ -18,7 +18,7 @@
 <p1><b>Confirm Password:</b>
 <input type="password" name="pass" required></p1>
 </br> </br>
-<a href="directory.php"><button type ="submit">Sign Up</button></a>
+<a href="directory.php"><button type ="submit">Register</button></a>
 </center>
 
 </body>
