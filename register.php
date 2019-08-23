@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head><title>Photo Gallery: Sign Up</title></head>
+<head><title>Photo Gallery: Register</title></head>
 <body>
 
-<h1 align="center">Sign Up</h1>
+<h1 align="center">Register</h1>
 
 <center>
 <p1><b>Email Address:</b>
