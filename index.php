@@ -33,7 +33,7 @@
 <p1><a href="resetpass.php">Reset Password</a></p1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p1><a href="signup.php">Sign Up</a></p1>
+<p1><a href="register.php">Register</a></p1>
 
 </center>
 
