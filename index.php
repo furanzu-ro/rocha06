@@ -29,7 +29,7 @@ Login
 </p>
 </br> </br>
 
-<a href= "photogallery.html"><button type="submit">Login</button></a>
+<a href= "photogallery.php"><button type="submit">Login</button></a>
 </br> </br>
 
 </center>
@@ -37,9 +37,9 @@ Login
 </main>
 
 <center>
-<p1><a href="resetpass.html">Reset Password</a></p1>
+<p1><a href="resetpass.php">Reset Password</a></p1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p1><a href="register.html">Register</a></p1>
+<p1><a href="register.php">Register</a></p1>
 
 </center>
