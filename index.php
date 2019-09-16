@@ -6,23 +6,30 @@
 <title>Photo Gallery Login</title>
 </head>
 
-<body>
+<body style="text-align:center;" background="mama.jpg">
 
-<main>
-<div class="container">
-<h1 align ="center">Login</h1>
 
-<center>
+<div class="header">
+<h1 style="font-family:arial; color:white; ">
+Login
+</h1>
+</div>
 
-<label for="uname"><b>Username:</b></label>
+</br> </br>
+
+<p style="font-family:arial; color:white;">
+<b>Username:</b></label>
 <input type="text" name="uname" required>
+</p>
 
 </br> </br>
-<label for="pass"><b>Password:</b></label>
+<p style="font-family:arial; color:white; ">
+<b>Password:</b>
 <input type="password" name="pass" required>
+</p>
 </br> </br>
 
-<a href= "photogallery.php"><button type="submit">Login</button></a>
+<a href= "photogallery.html"><button type="submit">Login</button></a>
 </br> </br>
 
 </center>
@@ -30,12 +37,9 @@
 </main>
 
 <center>
-<p1><a href="resetpass.php">Reset Password</a></p1>
+<p1><a href="resetpass.html">Reset Password</a></p1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p1><a href="register.php">Register</a></p1>
+<p1><a href="register.html">Register</a></p1>
 
 </center>
-
-</body>
-</html>
